@@ -3,6 +3,7 @@
 **Project Overview**
 The Gym Management System is a Java-based application developed to manage the daily operations of a gym in an organized and efficient way. This system helps in maintaining records of members, trainers, memberships, and payments without relying on manual paperwork.
 The main purpose of this project is to simplify gym management tasks, reduce errors, and save time by digitalizing the entire process.
+
 **Objectives**
 
 To maintain member records digitally
